@@ -1,5 +1,5 @@
 # Twitter_bot
-This is a twitter bot built with the tweepy library 
+This is a twitter pipeline to uptake tweets about 2020 election candidates 
 
 It is currently set up to collect data from a twitter about all of the candidates in the 2020 presidential election
 It is set up to clean the data as it comes in, in order to be stored into a postgreSQL database
